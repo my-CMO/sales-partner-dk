@@ -58,7 +58,7 @@ const MeetingSummarizer = () => {
         ],
       }, {
         headers: {
-          'Authorization': `Bearer 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`,
+          'Authorization': `Bearer your key`,
           'Content-Type': 'application/json',
         },
       });
